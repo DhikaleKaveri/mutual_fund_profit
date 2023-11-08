@@ -9,7 +9,7 @@ Retrieve Net Asset Values (NAVs) from the API: https://api.mfapi.in/mf/<scheme_c
 Calculate the number of units allotted on the purchase date, the value of the units on the redemption date, the net profit as the difference between the value on the redemption date and the initial investment.
 <br>
 <br>
-he FastAPI app provides a single route /profit that accepts query string parameters scheme_code, start_date, end_date, and capital.
+The FastAPI app provides a single route /profit that accepts query string parameters scheme_code, start_date, end_date, and capital.
 <br>
 Run the FastAPI app using CMD:
 <br>
